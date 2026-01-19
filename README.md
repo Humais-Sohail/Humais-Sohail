@@ -103,7 +103,7 @@ $$\   $$ |$$  _$$<  $$ |$$ |$$ | \____$$\ 
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left"><b>GitHub Stats</b></h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humais-sohail&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages"/>
   &nbsp;
@@ -112,11 +112,8 @@ $$\   $$ |$$  _$$<  $$ |$$ |$$ | \____$$\ 
 
 ---
 
-<h3 align="left">🎯 Fun & Vibes</h3>
-
-  <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRrd2t0cnIwdjRyaGo0MW1nN20zenJmZGNvOTd0cHZpdWZ4MXN1eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9YO1Zv9rPAGQg3bYLY/giphy.gif" alt="Retro Hacker" width="300"/>
-</p>
+  ![retro](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtvc2w5c2x1MGIxbXVydHpyNDV4ZThkcTl0YmZsNTM2eDVvcW1maSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5z1papfdWzowU3irFP/giphy.gif)
+  
 
 
 <pre>
