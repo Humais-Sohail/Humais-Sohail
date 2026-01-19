@@ -114,7 +114,7 @@ $$\   $$ |$$  _$$<  $$ |$$ |$$ | \____$$\ 
 
 <h3 align="left">🎯 Fun & Vibes</h3>
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNqNm45MTZ2Z2l3aHhhNXBycWl5cGdoZWxhYXNuemNraWc0NG9heiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9YO1Zv9rPAGQg3bYLY/giphy.gif">
+  ![Retro](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNqNm45MTZ2Z2l3aHhhNXBycWl5cGdoZWxhYXNuemNraWc0NG9heiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9YO1Zv9rPAGQg3bYLY/giphy.gif)
 </p>
 
 <pre>
