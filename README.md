@@ -27,11 +27,11 @@
 ---
 
 <h3 align="left">🌟 About Me</h3>
-- Currently working on: **Custom Ciphers**  
-- Studying: **BS in Cyber Security**  
-- Collaboration: **Reach out, I respond**  
-- Goal: **Become a Red Team member**  
-- Ask me about: **C++, Bash, Python, Cyber Security**  
+- Currently working on: **Custom Ciphers**<br>  
+- Studying: **BS in Cyber Security**<br>  
+- Collaboration: **Reach out, I respond**<br>  
+- Goal: **Become a Red Team member**<br>  
+- Ask me about: **C++, Bash, Python, Cyber Security**<br> 
 - Fun fact: **CRT monitors & retro tech are life**  
 
 ---
