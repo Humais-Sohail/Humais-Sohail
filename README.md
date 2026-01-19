@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Humais Sohail</h1>
 <h3 align="center">I’m a cybersecurity student with experience in multiple programming languages</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humais-sohail" alt="humais-sohail" /></a> </p>
+
+- 🔭 I’m currently working on **Custom Ciphers**
+
+- 👯 Collaboration: **I can collaborate, reach me out :)**
+
+- 💬 Ask me about **C++, Bash, Python**
+
+- 📫 How to reach me **humais1402@gmail.com**
+
 - ⚡ Fun fact **I love CRT and retro stuff**
 
 <h3 align="left">Connect with me:</h3>
