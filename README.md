@@ -113,9 +113,11 @@ $$\   $$ |$$  _$$<  $$ |$$ |$$ | \____$$\ 
 ---
 
 <h3 align="left">🎯 Fun & Vibes</h3>
-<p align="center">
-  ![Retro](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNqNm45MTZ2Z2l3aHhhNXBycWl5cGdoZWxhYXNuemNraWc0NG9heiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9YO1Zv9rPAGQg3bYLY/giphy.gif)
+
+  <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRrd2t0cnIwdjRyaGo0MW1nN20zenJmZGNvOTd0cHZpdWZ4MXN1eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9YO1Zv9rPAGQg3bYLY/giphy.gif" alt="Retro Hacker" width="300"/>
 </p>
+
 
 <pre>
   ~> echo "Stay Retro. Stay Secure."
