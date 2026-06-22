@@ -40,16 +40,13 @@
 
 <h3 align="left">📫 Contact</h3>
 <p align="left">
-  <a href="mailto:humais1402@gmail.com">
-    <img src="https://img.shields.io/badge/Email-humais1402@gmail.com-blue?style=flat-square" alt="Email"/>
+ <a href="https://github.com/Humais-Sohail"><img src="https://www.shieldcn.dev/badge/GitHub-%40Humais--Sohail-181717.svg?logo=github&variant=branded&size=sm&theme=stone&font=jetbrains-mono" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/humais-sohail-a530a33a7"><img src="https://www.shieldcn.dev/badge/LinkedIn-%40humais--sohail--a530a33a7-0A66C2.svg?logo=linkedin&variant=branded&size=sm&theme=stone&font=jetbrains-mono" alt="LinkedIn" />
   </a>
-  <a href="https://linkedin.com/in/humais-sohail-a530a33a7">
-    <img src="https://img.shields.io/badge/LinkedIn-HumaisSohail-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/hu._.mais">
-    <img src="https://img.shields.io/badge/Instagram-@hu._.mais-pink?style=flat-square&logo=instagram" alt="Instagram"/>
+  <a href="https://instagram.com/hu._.mais"><img src="https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=sm&theme=stone&font=jetbrains-mono" alt="Instagram" />
   </a>
 </p>
+
 
 ---
 <pre allign="center">
